@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\tr\tr\bin\Debug\net6.0\tr.exe
+C:\Users\user\source\repos\tr\tr\bin\Debug\net6.0\tr.deps.json
+C:\Users\user\source\repos\tr\tr\bin\Debug\net6.0\tr.runtimeconfig.json
+C:\Users\user\source\repos\tr\tr\bin\Debug\net6.0\tr.dll
+C:\Users\user\source\repos\tr\tr\bin\Debug\net6.0\tr.pdb
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.AssemblyInfo.cs
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.dll
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\refint\tr.dll
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.pdb
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\tr.genruntimeconfig.cache
+C:\Users\user\source\repos\tr\tr\obj\Debug\net6.0\ref\tr.dll

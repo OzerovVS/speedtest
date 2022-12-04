@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\bin\Debug\net6.0\ежевыйдневник.exe
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\bin\Debug\net6.0\ежевыйдневник.deps.json
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\bin\Debug\net6.0\ежевыйдневник.runtimeconfig.json
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\bin\Debug\net6.0\ежевыйдневник.dll
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\bin\Debug\net6.0\ежевыйдневник.pdb
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.AssemblyInfo.cs
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.dll
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\refint\ежевыйдневник.dll
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.pdb
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ежевыйдневник.genruntimeconfig.cache
+C:\Users\user\source\repos\ежевыйдневник\ежевыйдневник\obj\Debug\net6.0\ref\ежевыйдневник.dll
